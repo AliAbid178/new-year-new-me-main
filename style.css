@@ -50,6 +50,34 @@ header {
     border: none;
     color: white;
 }
-.part1{
-    background-image: ;
+
+.body1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 500px;
+    /* padding: 60px; */
+    margin-right: 20%;
+    margin-left: 20%;
+   
+}
+.myt{
+    width: 288px;
+}
+.part2 > ol{
+    list-style: none;
+}
+.sine{
+     color: greenyellow;
+}
+.body2-title{
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 100px;
+
+}
+.body2-cont{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
 }
